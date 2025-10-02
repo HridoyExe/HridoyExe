@@ -1,8 +1,14 @@
+<p align="center">
+  <img src="https://picsum.photos/1200/250?random=1" alt="Forman Islam Hridoy Pro Banner" width="100%" height="250px" style="border-radius: 10px;" />
+</p>
+
+---
+
 # Hi there 👋, I'm Forman Islam Hridoy (HridoyExe)
 
-### 🚀 Backend Developer | Python & Django Specialist
+### 💻 Backend Developer | Python & Django Specialist
 
-A passionate **Computer Science student** dedicated to building scalable and optimized web solutions using **Python, Django, and Django REST Framework (DRF)**. Focused on **clean code architecture** and implementing **best practices** in API development.
+A passionate **Computer Science student** dedicated to building scalable and optimized web solutions using **Python, Django, and Django REST Framework (DRF)**. Focused on **clean code architecture**, **performance tuning**, and implementing **best practices** in API development.
 
 ---
 
@@ -10,10 +16,10 @@ A passionate **Computer Science student** dedicated to building scalable and opt
 
 | Category | Details |
 | :--- | :--- |
-| **🔭 Currently Building** | High-performance APIs with **Django REST Framework (DRF)**. |
-| **🌱 Constantly Learning** | Advanced **Query Optimization** in Django, and **System Design** principles. |
+| **🔭 Currently Building** | High-performance, secure APIs with **Django REST Framework (DRF)**. |
+| **🌱 Constantly Learning** | Advanced **Query Optimization** in Django, **System Design** principles, and **DevOps** essentials. |
 | **🤝 Looking to Collaborate**| Open-source contributions, especially in the **Python/Django ecosystem**. |
-| **🧠 Ask Me About** | **Django ORM**, **REST API Design**, and **OOP** best practices in Python. |
+| **🧠 Ask Me About** | **Django ORM**, **REST API Design**, and **Object-Oriented Programming (OOP)** best practices in Python. |
 
 ---
 
