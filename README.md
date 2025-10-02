@@ -41,5 +41,7 @@ Hi, I’m **Forman Islam Hridoy**, a passionate **Computer Science student** cur
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HridoyExe&icon=0&color=0)](https://visitcount.itsvg.in)
+![snake gif](https://github.com/HridoyExe/HridoyExe/blob/output/github-contribution-grid-snake.svg)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
