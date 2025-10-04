@@ -43,7 +43,7 @@ A passionate **Computer Science student** dedicated to building scalable and opt
 
 ## 🏆 Competitive Programming
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/7rnVUFUcCZ/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-sFFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/7rnVUFUcCZ/)  
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/MdFormanAli)
 
 ---
