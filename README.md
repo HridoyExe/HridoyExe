@@ -1,9 +1,10 @@
-# ⚡ Forman Islam Hridoy
-### Backend Developer | Python & Django Specialist
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=250&section=header&text=Forman%20Islam%20Hridoy&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Backend%20Software%20Engineer%20|%20Python%20&%20Django%20Expert&descSize=20&descAlignY=55" width="100%" />
+</p>
 
-<p align="left">
+<p align="center">
   <a href="https://formandev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-6b21a8?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/forman-ali-hridoy-197973401/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -15,38 +16,47 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 Profile Overview
 
-I am a Computer Science student at **Jashore Polytechnic Institute** (7th Semester), dedicated to architecting robust server-side systems. I specialize in building scalable REST APIs and managing complex database relational schemas.
+A Computer Science student at **Jashore Polytechnic Institute** (7th Semester) with a deep passion for server-side engineering. I specialize in architecting robust, secure, and scalable backend systems using the **Python/Django** ecosystem.
 
-* 🔭 **Current Focus:** Performance optimization in Django & Scalable System Design.
-* 🌱 **Learning:** **Docker**, **MongoDB**, and **FastAPI** for high-performance services.
-* ⚡ **Philosophy:** Writing clean, documented, and maintainable code that solves real-world problems.
-* 🔗 **Live Portfolio:** [formandev.vercel.app](https://formandev.vercel.app/)
+* 🔭 **Specialization:** Building performance-optimized REST APIs and complex relational schemas.
+* 🌱 **Current Path:** Mastering **Docker**, **Redis**, and Advanced System Design.
+* ⚡ **Philosophy:** Writing clean, documented, and maintainable code that bridges efficiency with simplicity.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Professional Tech Stack
 
-#### 🧱 Core Backend & Databases
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+#### 💻 Core Fundamentals & Programming
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-#### 🌐 Frontend Integration
-![](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+#### 🌐 Backend Engine & Database
+<p align="left">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
 
-#### ⚙️ Workflow & DevOps
-![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+#### 🎨 Frontend Integration
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+#### ⚙️ Workflow & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
 
@@ -62,8 +72,8 @@ I am a Computer Science student at **Jashore Polytechnic Institute** (7th Semest
 
 ---
 
-### 🤝 Connect With Me
-I'm always open to discussing backend architecture, API security, or potential project collaborations.
+### 🤝 Let's Collaborate
+I am always open to discussing backend architecture, API security, or potential full-stack collaborations.
 
 [**LinkedIn**](https://www.linkedin.com/in/forman-ali-hridoy-197973401/) • [**Portfolio**](https://formandev.vercel.app/) • [**Email**](mailto:formanislamhridoy@gmail.com)
 
